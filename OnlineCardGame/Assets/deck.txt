@@ -1,0 +1,1 @@
+{"cardFileName":["Attack 1","Attack 1","Utility","Utility","Trinket 3","Trinket 3","Trinket 3","Armor 1","Armor 1","Helmet 2","Helmet 2","Trinket","Trinket","Trinket","Armor 1","Helmet 2","Taunt","Taunt","Attack","Attack","Attack","Attack","Attack 1","Attack 1","Attack 3","Attack 3","Weapon","Weapon","Attack 2","Attack 2","Trinket 2","Trinket 2","Attack 1","Attack 1"]}
